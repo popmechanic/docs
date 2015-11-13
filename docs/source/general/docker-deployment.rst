@@ -3,9 +3,9 @@
 Openchain Server Docker deployment
 ==================================
 
-Openchain Server is cross platform and can be deployed as a `DNX application <https://dotnet.readthedocs.org/en/latest/dnx/overview.html>`_ on Windows, OS X and Linux. However, to simplify dependency management and homogenize deployment of Openchain, we are shipping it as a Docker image.
+Openchain Server is cross-platform and can be deployed as a `DNX application <https://dotnet.readthedocs.org/en/latest/dnx/overview.html>`_ on Windows, OS X and Linux. However, to simplify dependency management and homogenize deployment of Openchain, we are shipping it as a Docker image.
 
-This document explain the few steps necessary to have the Openchain server running.
+This document explains the few steps necessary to run the Openchain server.
 
 Install Docker
 --------------
