@@ -3,7 +3,7 @@
 Anchoring and ledger integrity
 ==============================
 
-Openchain is capable of immutability by committing a hash of the entire ledger (the **cumulative hash**) onto a non-reversible Blockchain such as Bitcoin.
+Openchain is capable of immutability by committing a hash of the entire ledger (the **cumulative hash**) onto a non-reversible blockchain such as Bitcoin.
 
 .. note:: In the current version, the only anchoring mode available is the ``blockchain`` mode, based on the Bitcoin blockchain. Different anchoring modes will be available in the future, such as anchoring in a central repository.
 
