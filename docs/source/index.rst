@@ -1,7 +1,7 @@
 Openchain |version| Documentation
 =================================
 
-Openchain is an open source distributed ledger technology. It is suited for organizations wishing to issue and manage digital assets in a robust, secure and scalable way.
+Openchain is an open source distributed ledger technology. It is suited for organizations that wish to issue and manage digital assets in a robust, secure and scalable way.
 
 General
 -------
